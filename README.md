@@ -1,8 +1,8 @@
 # Proyecto_CFL_UIOTEC
 
 # ProyectoFinalGiordanoPython
-Proyecto Final Ignacio Giordano curso Python en coderhouse
-se desarrrollo una aplicación web estilo blog programada en Python en Django. Esta web tendrá admin, perfiles, registro, páginas y formularios.
+modelo de proyecto final
+se desarrrollo una aplicación web  programada en Python en Django. Esta web tendrá admin, perfiles, registro, páginas y formularios.
 
 Este proyecto no utiliza Python puro sino Python con Django para desarrollo web. Y la magia de HTML5 Y CSS3 combinado de las plantillas de Bootstrap nos facilitan
 el diseño FrontEnd de este proyecto.
@@ -78,8 +78,7 @@ En nuestro archivo settings.py incluimos la app creada en INSTALLED_APPS, agrega
 Listo!
 
 ## Créditos
-Mi gratitud a CoderHouse por todo un año juntos en distintos cursos, al [Profesor] Daniel Ochoa, y a los tutores que siempre estuvieron ahi y me dieron el  el empuje de arranque que me hacía falta para empezar en el camino con python/django. 
-Por ultimo y no por eso menos importante a mi Familia que me permitió el tiempo y el espacio, y me banco a lo largo del año, personalmente hiper agradecido de cerrar el año habiendo aprendido Python, que es repotente y extenso.
+
 
 # Autor✒️
 IGNACIO GIORDANO
