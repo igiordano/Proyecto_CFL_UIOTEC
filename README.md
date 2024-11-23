@@ -11,7 +11,7 @@ el diseño FrontEnd de este proyecto.
 # Comenzando🚀
 Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu local para propósitos de desarrollo y pruebas.
 
-git clone [ https://github.com/igiordano/ProyectoFinalGiordanoPython.git](https://github.com/igiordano/Proyecto_CFL_UIOTEC.git)
+git clone (https://github.com/igiordano/Proyecto_CFL_UIOTEC.git)
 
 # Descarga de instalación ZIP
 Ir a “code” > download ZIP
