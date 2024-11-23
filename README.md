@@ -1,6 +1,6 @@
 # Proyecto_CFL_UIOTEC
 
-# ProyectoFinalGiordanoPython
+
 modelo de proyecto final
 se desarrrollo una aplicación web  programada en Python en Django. Esta web tendrá admin, perfiles, registro, páginas y formularios.
 
